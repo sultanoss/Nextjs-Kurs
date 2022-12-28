@@ -65,7 +65,7 @@ function ContactForm() {
         notification = {
             status: "pending",
             title: "sending",
-            message: "Your message is on its way!"
+            message: "Your message is on its way!!!"
         }
     }
 
