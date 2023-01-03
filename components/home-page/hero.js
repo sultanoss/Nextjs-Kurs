@@ -11,7 +11,7 @@ function Hero() {
                     height={300} />
             </div>
             <h1>Hi i&apos;m Sultan</h1>
-            <p>I am a Frontend Developer</p>
+            <p>I am a Frontend Developer!</p>
         </section>
     )
 }
